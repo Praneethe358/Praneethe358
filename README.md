@@ -86,21 +86,6 @@ interests: [building projects, solving problems, learning tech]
 
 </div>
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<!-- Replace repo1 and repo2 with your actual repository names -->
-<a href="https://github.com/Praneethe358/repo1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praneethe358&repo=repo1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Praneethe358/repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praneethe358&repo=repo2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
