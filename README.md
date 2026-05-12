@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Praneethe%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Praneeth%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -24,15 +24,14 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Praneethe
+name: Praneeth
 location: India 🇮🇳
 role: Developer & Learner
 currently_learning: [new frameworks, data structures, open source]
 interests: [building projects, solving problems, learning tech]
-fun_fact: I debug with console.log and I'm not ashamed 😄
 ```
 
-> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+> 
 
 ---
 
@@ -60,7 +59,7 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 </div>
 
-> ✏️ *Update these badges to match your actual stack — [Browse all badges here](https://shields.io)*
+> 
 
 ---
 
@@ -119,11 +118,9 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/praneeth-e-4240a3349)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethpraneeth8888@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.praneeth.tech)
 
 </div>
 
