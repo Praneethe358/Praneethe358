@@ -40,9 +40,8 @@ interests: [building projects, solving problems, learning tech]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praneeths358&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues&custom_title=Praneeth's+GitHub+Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Praneeths358&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Praneethe358&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues&custom_title=Praneeth's+GitHub+Stats" width="49%" />
+  
 ---
 
 ## 🏆 GitHub Trophies
