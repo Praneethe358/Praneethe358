@@ -40,17 +40,8 @@ interests: [building projects, solving problems, learning tech]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praneethe358&theme=tokyonight" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praneethe358&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praneethe358&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praneethe358&theme=tokyonight" width="32%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Praneeths358&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praneeths358&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues&custom_title=Praneeth's+GitHub+Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Praneeths358&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
 </p>
 ---
 
