@@ -35,6 +35,7 @@ interests: [building projects, solving problems, learning tech]
 
 
 ---
+---
 
 ## 📊 GitHub Stats
 
@@ -61,6 +62,7 @@ interests: [building projects, solving problems, learning tech]
 
 
 ---
+---
 
 ## 📈 Contribution Graph
 
@@ -70,6 +72,7 @@ interests: [building projects, solving problems, learning tech]
 
 </div>
 
+---
 ---
 
 ## 🤝 Connect With Me
