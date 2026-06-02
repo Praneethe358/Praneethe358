@@ -27,7 +27,7 @@
 name: Praneeth
 location: India 🇮🇳
 role: Developer & Learner
-currently_learning: [new frameworks, data structures, open source]
+currently_learning: [frameworks, data structures, open source]
 interests: [building projects, solving problems, learning tech]
 ```
 
