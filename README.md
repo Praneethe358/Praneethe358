@@ -44,11 +44,7 @@ interests: [building projects, solving problems, learning tech]
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Praneethe358&theme=tokyonight&no-frame=true&row=1&column=7)]
-
-</div>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Praneethe358&theme=algolia&no-frame=true&margin-w=15)
 
 
 ---
