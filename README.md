@@ -40,7 +40,7 @@ interests: [building projects, solving problems, learning tech]
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Praneethe358&theme=nord&hide_border=true" width="49%" />
 </p>
----
+
 
 ---
 
