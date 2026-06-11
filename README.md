@@ -52,7 +52,7 @@ interests: [building projects, solving problems, learning tech]
 
 </div>
 
-
+---
 ---
 
 ## 🤝 Connect With Me
