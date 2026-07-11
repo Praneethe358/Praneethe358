@@ -10,13 +10,6 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Praneethe358&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/Praneethe358?tab=followers">
-  <img src="https://img.shields.io/github/followers/Praneethe358?label=Followers&style=flat-square&color=7c3aed" />
-</a>
-
 </div>
 
 ---
