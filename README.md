@@ -28,11 +28,6 @@
 
 <br>
 
-### 👾 Activity Pulse & Sector Defense 
-
-<!-- Space Shooter Arcade GIF -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Space Shooter Animation" style="border-radius: 10px; margin-bottom: 15px;">
-
 <!-- Live Contribution Graph -->
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Praneethe358)
 
