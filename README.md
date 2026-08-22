@@ -1,18 +1,11 @@
 <div align="center">
 
 # ✦ Praneeth E ✦
-**AI & Data Science | AR Systems Architect | Full-Stack Developer**
+**AI & Data Science | Systems Architect | Full-Stack Developer**
 
-*Passionate about building intelligent systems, scalable spatial microservices, and merging the digital and physical worlds.*
+*Passionate about building intelligent systems and scalable microservices.*
 
 ---
-
-### 🚀 Current Focus
-- 🌐 Architecting a **Global AR Social Layer** utilizing Spatial CMS and Visual Positioning Systems (VPS).
-- ⚙️ Building hybrid workflows bridging backend microservices (Kubernetes, Redis, PostGIS) with AR engine viewports (Unity/Unreal).
-- 🤖 Integrating AI-assisted tools into complex full-stack environments.
-
-<br>
 
 ### 💻 Tech Stack & Arsenal
 
@@ -23,7 +16,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-05050F?style=for-the-badge&logo=kubernetes&logoColor=00FFFF&borderColor=00FFFF)
 ![Redis](https://img.shields.io/badge/Redis-05050F?style=for-the-badge&logo=redis&logoColor=E066FF&borderColor=E066FF)
 ![Unity](https://img.shields.io/badge/Unity-05050F?style=for-the-badge&logo=unity&logoColor=00FFFF&borderColor=00FFFF)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-05050F?style=for-the-badge&logo=githubcopilot&logoColor=E066FF&borderColor=E066FF)
 
 <br>
 
@@ -38,8 +30,12 @@
 
 <br>
 
-### 🌌 Activity Pulse
+### 👾 Activity Pulse & Sector Defense 
 
+<!-- A retro arcade GIF to simulate the "game" feel in the container -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Space Shooter Animation" style="border-radius: 10px; margin-bottom: 15px;">
+
+<!-- Your actual live contribution graph below it -->
 <a href="https://github.com/Praneethe358">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
 </a>
