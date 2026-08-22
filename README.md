@@ -20,8 +20,8 @@
 ### ✦ System Analytics ✦
 
 <!-- Custom colored stats cards mimicking the dark/neon theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3&icon_color=00FFFF&ring_color=E066FF" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3" alt="Top Languages" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Praneethe358&show_icons=true&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3&icon_color=00FFFF&ring_color=E066FF" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3" alt="Top Languages" width="48%">
 
 <br>
 
