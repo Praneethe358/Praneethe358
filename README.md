@@ -19,12 +19,12 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 System Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Praneethe358&theme=nord&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Praneethe358&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3" alt="Top Languages" width="48%" />
 </p>
-
 
 <br>
 
