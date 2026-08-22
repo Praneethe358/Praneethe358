@@ -9,7 +9,6 @@
 
 ### 💻 Tech Stack & Arsenal
 
-<!-- High-contrast custom badges -->
 ![Python](https://img.shields.io/badge/Python-05050F?style=for-the-badge&logo=python&logoColor=E066FF&borderColor=E066FF)
 ![PostGIS](https://img.shields.io/badge/PostGIS-05050F?style=for-the-badge&logo=postgresql&logoColor=00FFFF&borderColor=00FFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05050F?style=for-the-badge&logo=mongodb&logoColor=E066FF&borderColor=E066FF)
@@ -28,10 +27,21 @@
 
 ### 👾 Activity Pulse & Sector Defense 
 
-<!-- Space Shooter Arcade GIF -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Space Shooter Animation" style="border-radius: 10px; margin-bottom: 15px;">
+```javascript
+var layer = L.marker(
+  [response[i].latitude, response[i].longitude]
+  // {icon: myIcon}
+);
+layer.addTo(group);
 
-<!-- Live Contribution Graph -->
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Praneethe358)
+layer.bindPopup(
+  "<p>Species: " + response[i].species + "</p>" +
+  "<p>Description: " + response[i].description + "</p>" +
+  "<p>Seen at: " + response[i].latitude + 
+  ", " + response[i].longitude + "</p>" +
+  "<p>On: " + response[i].sighted_at + "</p>"
+);
 
-</div>
+$('select').change(function() {
+  species = this.value;
+});
