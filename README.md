@@ -8,6 +8,12 @@
 
 ---
 
+### 🚀 Currently Building
+**[TruBill](https://trubill.in)** — Live SaaS product for small textile & footwear retailers in Tiruppur/Coimbatore.
+Multi-tenant GST invoicing delivered straight over WhatsApp. MSME registered · Production-live · Paying customers.
+
+---
+
 ### 💻 Tech Stack & Arsenal
 
 ![Next.js](https://img.shields.io/badge/Next.js-05050F?style=for-the-badge&logo=next.js&logoColor=E066FF&borderColor=E066FF)
@@ -27,13 +33,13 @@
 
 ### 📊 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Praneethe358&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3&hide_border=true)](https://github.com/Praneethe358)
+[![GitHub Streak](./profile/streak.svg)](https://github.com/Praneethe358)
 
 <br>
 
 ### 🔤 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3)](https://github.com/Praneethe358)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/Praneethe358)
 
 <br>
 
