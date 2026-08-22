@@ -1,9 +1,9 @@
 <div align="center">
 
 # ✦ Praneeth E ✦
-**AI & Data Science | Systems Architect | Full-Stack Developer**
+**AI & Data Science | AR Systems Architect | Full-Stack Developer**
 
-*Passionate about building intelligent systems and scalable microservices.*
+*Passionate about building intelligent systems, scalable spatial microservices, and merging the digital and physical worlds.*
 
 ---
 
@@ -21,23 +21,17 @@
 
 ### 📊 System Analytics
 
-<a href="https://github.com/Praneethe358">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praneethe358&show_icons=true&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3&icon_color=00FFFF&ring_color=E066FF" alt="Praneeth's GitHub Stats" width="48%">
-</a>
-<a href="https://github.com/Praneethe358">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3" alt="Top Languages" width="48%">
-</a>
+[![Praneeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneethe358&show_icons=true&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3&icon_color=00FFFF&ring_color=E066FF)](https://github.com/Praneethe358)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3)](https://github.com/Praneethe358)
 
 <br>
 
 ### 👾 Activity Pulse & Sector Defense 
 
-<!-- A retro arcade GIF to simulate the "game" feel in the container -->
+<!-- Space Shooter Arcade GIF -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Space Shooter Animation" style="border-radius: 10px; margin-bottom: 15px;">
 
-<!-- Your actual live contribution graph below it -->
-<a href="https://github.com/Praneethe358">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
-</a>
+<!-- Live Contribution Graph -->
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Praneethe358)
 
 </div>
