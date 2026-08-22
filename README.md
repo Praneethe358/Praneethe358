@@ -4,7 +4,6 @@
 
 **Founder & CEO @ TruBill · AI & Data Science Undergrad · Full-Stack Developer**
 
-*Building GST-compliant, WhatsApp-native invoicing for small retail shops in Tamil Nadu — and the systems behind it.*
 
 ---
 
