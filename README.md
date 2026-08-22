@@ -8,12 +8,6 @@
 
 ---
 
-### 🚀 Currently Building
-**[TruBill](https://trubill.in)** — Live SaaS product for small textile & footwear retailers in Tiruppur/Coimbatore.
-Multi-tenant GST invoicing delivered straight over WhatsApp. MSME registered · Production-live · Paying customers.
-
----
-
 ### 💻 Tech Stack & Arsenal
 
 ![Next.js](https://img.shields.io/badge/Next.js-05050F?style=for-the-badge&logo=next.js&logoColor=E066FF&borderColor=E066FF)
