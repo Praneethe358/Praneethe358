@@ -20,11 +20,15 @@
 
 ### 📊 System Analytics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praneethe358&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3&hide_border=true)](https://github.com/Praneethe358)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3)](https://github.com/Praneethe358)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praneethe358&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3&hide_border=true&v=99" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3&v=99" alt="Top Languages" width="48%" />
+</p>
 
 <br>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Praneethe358)
+<a href="https://github.com/Praneethe358">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&v=99" alt="Contribution Graph" width="100%" />
+</a>
 
 </div>
