@@ -9,7 +9,6 @@
 
 ### 💻 Tech Stack & Arsenal
 
-<!-- High-contrast custom badges -->
 ![Python](https://img.shields.io/badge/Python-05050F?style=for-the-badge&logo=python&logoColor=E066FF&borderColor=E066FF)
 ![PostGIS](https://img.shields.io/badge/PostGIS-05050F?style=for-the-badge&logo=postgresql&logoColor=00FFFF&borderColor=00FFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05050F?style=for-the-badge&logo=mongodb&logoColor=E066FF&borderColor=E066FF)
@@ -19,16 +18,13 @@
 
 <br>
 
-## 📊 System Analytics
+### 📊 System Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Praneethe358&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3" alt="Top Languages" width="48%" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praneethe358&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3&hide_border=true)](https://github.com/Praneethe358)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3)](https://github.com/Praneethe358)
 
 <br>
 
-<!-- Live Contribution Graph -->
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Praneethe358)
 
 </div>
