@@ -18,17 +18,22 @@
 
 <br>
 
-### 📊 System Analytics
+### 📊 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praneethe358&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3&hide_border=true&v=99" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3&v=99" alt="Top Languages" width="48%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Praneethe358&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3&hide_border=true)](https://github.com/Praneethe358)
 
 <br>
 
-<a href="https://github.com/Praneethe358">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&v=99" alt="Contribution Graph" width="100%" />
-</a>
+### 🔤 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3)](https://github.com/Praneethe358)
+
+<br>
+
+### 👾 Activity Pulse & Sector Defense 
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Space Shooter Animation" style="border-radius: 10px; margin-bottom: 15px;">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=05050F&color=E066FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Praneethe358)
 
 </div>
