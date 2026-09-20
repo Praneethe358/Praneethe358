@@ -8,6 +8,10 @@ on:
     paths:
       - ".github/workflows/update-profile-stats.yml"
 
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -15,17 +19,19 @@ jobs:
       contents: write
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          fetch-depth: 0
 
       - name: Generate streak stats SVG
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1.8.0
         with:
           options: user=Praneethe358&theme=dark&hide_border=true&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages SVG
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: top-langs
           options: username=Praneethe358&layout=compact&hide_border=true&bg_color=05050F&title_color=E066FF&text_color=A9B2C3
@@ -38,4 +44,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git diff --cached --quiet || git commit -m "chore: update profile stats [skip ci]"
+          git pull --rebase origin main
           git push
