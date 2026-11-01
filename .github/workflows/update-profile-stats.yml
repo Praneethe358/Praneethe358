@@ -24,7 +24,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate streak stats SVG
-        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1.8.0
+        uses: DenverCoder1/github-readme-streak-stats@adbd07609bb771d3510a15ee2f3b31d5fbe5201d # v1.8.1
         with:
           options: user=Praneethe358&theme=dark&hide_border=true&background=05050F&ring=E066FF&fire=00FFFF&currStreakLabel=E066FF&sideLabels=E066FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B2C3
           path: profile/streak.svg
