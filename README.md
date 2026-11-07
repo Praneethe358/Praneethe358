@@ -3,17 +3,6 @@
   <!-- ==================== HEADER BANNER ==================== -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:08090C,100:4F5FE3&height=180&section=header&text=PRANEETH%20E&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Founder%20%26amp%3B%20CEO%20%40%20TruBill%20%C2%B7%20AI%20%26amp%3B%20Data%20Science%20Undergrad%20%C2%B7%20Full-Stack%20Developer&descSize=13&descAlignY=64&descColor=C2D929" width="100%" alt="Praneeth E Banner" />
 
-  <br/>
-
-  # ✦ Praneeth E ✦
-
-  **Founder & CEO @ TruBill · AI & Data Science Undergrad · Full-Stack Developer**
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4F5FE3,100:000000&height=2&width=100%" width="100%" height="2" alt="Divider" />
-
-  <br/>
 
   <!-- ==================== TECH STACK & ARSENAL ==================== -->
   <h3>💻 Tech Stack & Arsenal</h3>
