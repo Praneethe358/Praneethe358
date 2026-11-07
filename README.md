@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ==================== HEADER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:08090C,100:4F5FE3&height=180&section=header&text=PRANEETH%20E&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Founder%20%26%20CEO%20%40%20TruBill%20%C2%B7%20AI%20%26%20Data%20Science%20Undergrad%20%C2%B7%20Full-Stack%20Developer&descSize=13&descAlignY=64&descColor=C2D929" width="100%" alt="Praneeth E Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:08090C,100:4F5FE3&height=180&section=header&text=PRANEETH%20E&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Founder%20%26amp%3B%20CEO%20%40%20TruBill%20%C2%B7%20AI%20%26amp%3B%20Data%20Science%20Undergrad%20%C2%B7%20Full-Stack%20Developer&descSize=13&descAlignY=64&descColor=C2D929" width="100%" alt="Praneeth E Banner" />
 
   <br/>
 
@@ -63,7 +63,7 @@
 
   <p align="center">
     <a href="https://github.com/Praneethe358">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneethe358&bg_color=08090C&color=4F5FE3&line=4F5FE3&point=C2D929&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+      <img src="https://github.pumbas.net/api/contributions/Praneethe358?colour=4F5FE3&bgColour=08090C" alt="Contribution Graph" width="100%" />
     </a>
   </p>
 
